@@ -4,14 +4,12 @@ this is an effective ddos tool to use for stress testing and seeing if websites 
 # instructions
 
 apt install hping3
-^
 |
 need to be root
 
 # usage
 
 python3 dosser
-^
 |
 need to be root
 
